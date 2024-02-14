@@ -16,16 +16,16 @@ h1 {
     margin-right: 20px;
     margin-bottom: 20px;
     box-shadow: 5px 5px rgb(40, 40, 71);
-    background-color: rgba(135, 206, 235, 0.5); /* Sky blue with 50% opacity */
-    backdrop-filter: blur(10px); /* Blur effect */
+    /* background-color: rgba(135, 206, 235, 0.5); 
+    backdrop-filter: blur(10px); */
 }
 
 .months {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    background-color: rgba(135, 206, 235, 0.5); /* Sky blue with 50% opacity */
-    backdrop-filter: blur(10px); /* Blur effect */
+    /* background-color: rgba(135, 206, 235, 0.5); 
+    backdrop-filter: blur(10px); */
 }
 
 table {
